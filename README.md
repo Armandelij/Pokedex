@@ -7,5 +7,5 @@ https://user-images.githubusercontent.com/64448202/172455294-79b6bb47-fa14-4dc6-
 
 Tech used
 * Networking Apis
-Swift 
-SwiftUI 
+* Swift 
+* SwiftUI 
